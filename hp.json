@@ -7,31 +7,31 @@
   "books" : [
     {
       "book" : "Harry Potter and the Philosopher's Stonenn",
-      "published" : 1997,
+      "published" : 1997
     },
     {
       "book" : "Harry Potter and the Chamber of Secrets",
-      "published" : 1998,
+      "published" : 1998
     },
     {
       "book" : "Harry Potter and the Prisoner of Azkaban",
-      "published" : 1999,
+      "published" : 1999
     },
     {
       "book" : "Harry Potter and the Goblet of Fire",
-      "published" : 2000,
+      "published" : 2000
     },
     {
       "book" : "Harry Potter and the Order of the Phoenix",
-      "published" : 2003,
+      "published" : 2003
     },
     {
       "book" : "Harry Potter and the Half-Blood Prince",
-      "published" : 2005,
+      "published" : 2005
     },
     {
       "book" : "Harry Potter and the Deathly Hallows",
-      "published" : 2007,
+      "published" : 2007
     }
   ]
 }
