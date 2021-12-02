@@ -1,35 +1,35 @@
 {
     "name":"Harry Potter",
     "description":"It is a series of books based on a fictional character named Harry Potter",
-    "Author":"J.K. Rowlin",
-    "About":"The books concern a wizard called Harry Potter and his journey through Hogwarts School of Witchcraft and Wizardry. The stories tell of him overcoming dangerous obstacles to defeat the Dark wizard Lord Voldemort",
-    "Books":[
+    "author":"J.K. Rowlin",
+    "about":"The books concern a wizard called Harry Potter and his journey through Hogwarts School of Witchcraft and Wizardry. The stories tell of him overcoming dangerous obstacles to defeat the Dark wizard Lord Voldemort",
+    "books":[
             {
-                "Book": "Harry Potter and the Philosopher's Stone (Also known as Harry Potter and the Sorcerer's Stone)",
-                "Published": 1997
+                "book": "Harry Potter and the Philosopher's Stone (Also known as Harry Potter and the Sorcerer's Stone)",
+                "published": 1997
             },
             {
-                "Book": "Harry Potter and the Chamber of Secrets",
-                "Published": 1998
+                "book": "Harry Potter and the Chamber of Secrets",
+                "published": 1998
             },
             {
-                "Book": "Harry Potter and the Prisoner of Azkaban",
+                "book": "Harry Potter and the Prisoner of Azkaban",
                 "val": "Published: 1999"
             },
             {
-                "Book": "Harry Potter and the Goblet of Fire",
+                "book": "Harry Potter and the Goblet of Fire",
                 "val": "Published: 2000"
             },
             {
-                "Book": "Harry Potter and the Order of the Phoenix",
+                "book": "Harry Potter and the Order of the Phoenix",
                 "val": "Published: 2003"
             },
             {
-                "Book": "Harry Potter and the Half-Blood Prince",
+                "book": "Harry Potter and the Half-Blood Prince",
                 "Book": "Published: 2005"
             },
             {
-                "Book": "Harry Potter and the Deathly Hallows",
+                "book": "Harry Potter and the Deathly Hallows",
                 "val": "Published: 2007"
             }
         ]
