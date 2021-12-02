@@ -4,11 +4,7 @@
   "author" : "J.K. Rowlingr",
   "about" : "The books concern a wizard called Harry Potter and his journey through Hogwarts School of Witchcraft and Wizardry. The stories tell of him overcoming dangerous obstacles to defeat the Dark wizard Lord Voldemort",
   "active" : true,
-  "books" : 
-    {
-      "book" : "Harry Potter and the Philosopher's Stonen",
-      "published" : 1997,
-    },
+  "books" :[
     {
       "name" : "Madame Uppercut",
       "age" : 39,
@@ -31,5 +27,5 @@
         "Interdimensional travel"
       ]
     }
-  
+  ]
 }
