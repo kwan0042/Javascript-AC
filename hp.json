@@ -1,0 +1,37 @@
+{
+  "name" : "Harry Potter",
+  "description" : "It is a series of books based on a fictional character named Harry Potter",
+  "author" : "J.K. Rowlingr",
+  "about" : "The books concern a wizard called Harry Potter and his journey through Hogwarts School of Witchcraft and Wizardry. The stories tell of him overcoming dangerous obstacles to defeat the Dark wizard Lord Voldemort",
+  "active" : true,
+  "books" : [
+    {
+      "book" : "Harry Potter and the Philosopher's Stonenn",
+      "published" : 1997,
+    },
+    {
+      "book" : "Harry Potter and the Chamber of Secrets",
+      "published" : 1998,
+    },
+    {
+      "book" : "Harry Potter and the Prisoner of Azkaban",
+      "published" : 1999,
+    },
+    {
+      "book" : "Harry Potter and the Goblet of Fire",
+      "published" : 2000,
+    },
+    {
+      "book" : "Harry Potter and the Order of the Phoenix",
+      "published" : 2003,
+    },
+    {
+      "book" : "Harry Potter and the Half-Blood Prince",
+      "published" : 2005,
+    },
+    {
+      "book" : "Harry Potter and the Deathly Hallows",
+      "published" : 2007,
+    }
+  ]
+}
